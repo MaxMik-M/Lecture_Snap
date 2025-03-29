@@ -20,3 +20,4 @@ Persistent Sorting Panel: A convenient, always-accessible panel that remains ope
 
 <img width="1012" alt="Screenshot 2025-03-26 at 19 45 11" src="https://github.com/user-attachments/assets/91d1f076-2708-445f-b5c9-fad5086917d9" />
 
+<img width="336" alt="Screenshot 2025-03-29 at 11 42 35" src="https://github.com/user-attachments/assets/77ce52ab-07e0-4bd7-8e85-89aba5c2df50" />
